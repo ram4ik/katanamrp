@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://katanamrp.com",
+
+    "env": {
+        "email" : "<your email>",
+        "password" : "<your password>",
+        "api_key" : "<your API key>"
+    }
+}
